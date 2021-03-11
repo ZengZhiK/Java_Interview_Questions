@@ -632,14 +632,14 @@ public class Sub extends Super {
 
 ## [Java中Object对象有哪些方法](https://www.cnblogs.com/noperx/p/11368543.html)
 
-一、所有方法
+一、所有方法（**9个**）
 
 - getClass() 
 - hashCode()
 - equals()
 - toString()
 - clone()
-- wait()...
+- wait()
 - notify()
 - notifyAll()
 - finalize()
